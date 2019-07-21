@@ -19,23 +19,34 @@ We have a couple of techies in our 2019 cohort and they'd be happy to chat / key
 
 @TODO check in with techies, see if they're happy to chat and best contact details. 
 
+## I am a TechBro™. Is this course for me? 
+
+```python 
+return False
+```
 
 ## What sort of tech do you work with? Do you have a lab? 
 
-We have a small Makerspace just for 3Ai students. It's fully equipped with bench space, soldering equipment, screwdrivers, chisels, woodworking tools, vices, a whole bunch of Arduino, Google Coral and other electronics, and even a sewing machine. 
+We have a small Makerspace just for 3Ai students. It's fully equipped with bench space, soldering equipment, screwdrivers, chisels, woodworking tools, vices, a whole bunch of Arduino, Google Coral and other electronics, and even a sewing machine. You get 24 hour Makerspace access, so if you're a night owl and splicing some cables at 3am is your thing, well, we understand. 
 
-The network at ANU is backboned on to AARNet, and is generally gigagit to the desktop. 
+The network at ANU is backboned on to AARNet, and is generally gigabit to the desktop. 
 
-During your course, you'll have a lot of freedom over the technologies you get to explore, but the coursework itself uses a lot of ; 
+During your course, you'll have a lot of freedom over the technologies you get to explore, but the coursework itself uses a lot of: 
 
 * `git` and GitLab
 * `python` and some basic `bash` 
 * Advanced `python` such as `nltk` and `scikit-learn` for machine learning
 * Arduino and the Arduino IDE for working with electronics 
 
+  
+## What is the gender ratio? 
+
+The first cohort (check out [#3AiFirstCohort](https://twitter.com/search?f=tweets&vertical=default&q=3aifirstcohort&src=typd) on the Twitters) had a gender ratio of 50% male-identifying and 50% female-identifying. We welcome you if you're enby, trans or cis, and wherever you fall on the red-purple scale.
+
 ## How do I know that you're pretty technical? Show me some ASCII art. 
 
 No worries. We can also discuss favourite *nix distributions too if that's more your jam ;-) 
+Or multivariate calculus. Some of us also speak additional languages. Maj'qa!
 
 
 ```bash
