@@ -24,14 +24,14 @@ We have a couple of techies in our 2019 cohort and they'd be happy to chat / key
 
 We have a small Makerspace just for 3Ai students. It's fully equipped with bench space, soldering equipment, screwdrivers, chisels, woodworking tools, vices, a whole bunch of Arduino, Google Coral and other electronics, and even a sewing machine. 
 
-The network at ANU is gigabit to the desktop. 
+The network at ANU is backboned on to AARNet, and is generally gigagit to the desktop. 
 
-Here's proof: 
+During your course, you'll have a lot of freedom over the technologies you get to explore, but the coursework itself uses a lot of ; 
 
-
-
-
-
+* `git` and GitLab
+* `python` and some basic `bash` 
+* Advanced `python` such as `nltk` and `scikit-learn` for machine learning
+* Arduino and the Arduino IDE for working with electronics 
 
 ## How do I know that you're pretty technical? Show me some ASCII art. 
 
