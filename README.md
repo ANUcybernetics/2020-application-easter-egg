@@ -17,14 +17,6 @@ If you're not so interested in the human side of AI, and are not attracted to a 
 
 We have a couple of techies in our 2019 cohort and they'd be happy to chat / keybase / gitter with you. 
 
-@TODO check in with techies, see if they're happy to chat and best contact details. 
-
-## I am a TechBro™. Is this course for me? 
-
-```python 
-return False
-```
-
 ## What sort of tech do you work with? Do you have a lab? 
 
 We have a small Makerspace just for 3Ai students. It's fully equipped with bench space, soldering equipment, screwdrivers, chisels, woodworking tools, vices, a whole bunch of Arduino, Google Coral and other electronics, and even a sewing machine. You get 24 hour Makerspace access, so if you're a night owl and splicing some cables at 3am is your thing, well, we understand. 
