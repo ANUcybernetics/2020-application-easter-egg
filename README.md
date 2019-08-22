@@ -1,5 +1,11 @@
 ![guiltyrobot](guilty-robot.jpg "Guilty Robot")
 
+```
+DEADLINE EXTENDED UNTIL 1st SEPTEMBER
+
+The deadline for 2020 Applications for the Masters in Applied Cybernetics has now been extended until 1st September
+```
+
 # So, you're thinking of applying for the 2020 Masters in Applied Cybernetics at the 3Ai in Canberra?
 
 Have you [read the application information](https://3ainstitute.cecs.anu.edu.au/#apply?referer=GitHub)? That's the Getting Started guide.
