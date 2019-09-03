@@ -1,9 +1,10 @@
 ![guiltyrobot](guilty-robot.jpg "Guilty Robot")
 
 ```
-DEADLINE EXTENDED UNTIL 1st SEPTEMBER
+APPLICATIONS FOR THE 2020 PROGRAMME ARE NOW CLOSED
 
-The deadline for 2020 Applications for the Masters in Applied Cybernetics has now been extended until 1st September
+Applications for the 2020 Masters in Applied Cybernetics are now closed. 
+Thank you to all applicants for your interest, and best wishes for the application process. 
 ```
 
 # So, you're thinking of applying for the 2020 Masters in Applied Cybernetics at the 3Ai in Canberra?
